@@ -11,5 +11,5 @@ management:
       exposure:
         include: bus-refresh
 server:
-  port: 8080
+  port: 9080
 name: zjs
