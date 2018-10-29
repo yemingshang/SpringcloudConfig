@@ -10,4 +10,4 @@ management:
     web:
       exposure:
         include: bus-refresh
-name: hello
+name: zjs
