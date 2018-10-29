@@ -14,5 +14,5 @@ spring:
   datasource:
     username: root
     password: 123123
-    url: jdbc:mysql://localhost/sell2
+    url: jdbc:mysql://localhost/product
     driver-class-name: com.mysql.jdbc.Driver
